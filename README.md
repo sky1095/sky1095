@@ -4,7 +4,7 @@
 #### 📬  Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvador-valverde/)](https://www.linkedin.com/in/sudhanshukumaryadav/)
 #### 📬  Follow me on
-![Twitter Follow](https://img.shields.io/twitter/follow/SudhanshuSay?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SudhanshuSay?style=social)](https://twitter.com/intent/follow?screen_name=SudhanshuSay)
 
 ![GitHub followers](https://img.shields.io/github/followers/sky1095?style=social)
 - 🔭 I’m currently working on be better every day 
