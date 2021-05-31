@@ -1,9 +1,9 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am <a href="https://github.com/sky1095">Sudhanshu Kumar Yadav</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
-#### 📬 Find me at
+#### 📬  Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvador-valverde/)](https://www.linkedin.com/in/sudhanshukumaryadav/)
-#### 📬 Follow me on
+#### 📬  Follow me on
 ![Twitter Follow](https://img.shields.io/twitter/follow/SudhanshuSay?style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/sky1095?style=social)
